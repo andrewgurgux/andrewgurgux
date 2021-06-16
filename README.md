@@ -1,6 +1,5 @@
-Hi, I’m Andrew,
-
-I'm a to-be network and data guy, hopefully..
+Hi I'm Andrew,
+I study Business Administration but found my passion in coding. Hopefully, I'll get to contribute and help others as I learn more in the future. 
 
 
 <!---
