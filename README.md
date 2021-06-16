@@ -1,6 +1,6 @@
 Hi, I’m Andrew,
 
-I study Business Administration at EU Business School, I also really like coding and data. I've taught myself the basics, but still have a lot to learn. 
+I'm a to-be network and data guy, hopefully..
 
 
 <!---
